@@ -123,7 +123,7 @@
     }
   },
   "latest": "1.0.0",
-  "update_time": "2026-06-03T09:41:45Z",
+  "update_time": "2026-06-05T10:23:24Z",
   "update_check_urls": [
     "https://raw.githubusercontent.com/charaorigin/charastudio-public/main/versions.json",
     "https://gitee.com/charaorigin/charastudio-public/raw/main/versions.json"
