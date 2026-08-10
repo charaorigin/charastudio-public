@@ -1,4 +1,12 @@
 # CHANGELOG
+## v1.1.1 - 2026-08-10
++ [fix] Fixed some known bugs
++ [fix] remove guest login feature
++ [add] i18n internationalization optimization, Korean support
++ [修改] 修复了一些已知bug
++ [修改] 取消游客登录功能
++ [新增] i18n国际化优化、韩语支持
+
 
 ## v1.1.0 - 2026-08-06
 + [修改] UI 全面优化，提升视觉效果和交互体验
@@ -13,6 +21,7 @@
 + [新增] 故事模块：故事创作系统，支持大纲编辑、章节管理、AI辅助
 + [新增] 社交分享：角色卡/故事一键分享至 Discord、Telegram、X、Instagram、LINE、小红书
 + [新增] 法律协议合规：服务条款、隐私政策、可接受使用政策
++ [新增] i18n国际化优化、韩语支持
 
 ## v1.0.0 - 2026-06-03
 
