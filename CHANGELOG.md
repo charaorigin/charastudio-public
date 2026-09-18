@@ -1,5 +1,10 @@
-# CHANGELOG
-## v1.2.0 - 2026-09-01
+ CHANGELOG
+## v1.2.2 - 2026-09-15
++ [Changed] Fixed several known bugs
++ [Changed] Optimized character creation features
++ [Changed] Optimized desktop character features, including desktop character creation, sprite sheet creation, and desktop character interactions
+
+## v1.2.0 - 2026-09-01#
 + [Changed] Fixed several known bugs
 + [Changed] Optimized file and data storage logic
 + [Added] Desktop character features, including desktop character creation, sprite sheet creation, and desktop character interactions
