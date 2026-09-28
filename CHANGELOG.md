@@ -1,4 +1,9 @@
- CHANGELOG
+# CHANGELOG
+## v1.3.0 - 2026-09-31
++ [Added] Comic workbench and canvas features
++ [Changed] Optimized story workbench features
++ [Changed] Fixed several known bugs
+
 ## v1.2.2 - 2026-09-15
 + [Changed] Fixed several known bugs
 + [Changed] Optimized character creation features
