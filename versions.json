@@ -2,7 +2,7 @@
   "app_name": "CharaStudio",
   "versions": {
     "1.3.5": {
-      "release_time": "2026-10-07T04:58:23Z",
+      "release_time": "2026-10-07T05:11:39Z",
       "downloads": [
         {
           "version": "1.3.5",
@@ -10,8 +10,8 @@
           "arch": "amd64",
           "filename": "CharaStudio-1.3.5-linux-amd64",
           "size": 49959264,
-          "checksum": "f70bbdfa31c20b796a20cc275e960df861f485f761d496bf41dbb3334db6c314",
-          "time": "2026-10-07T04:55:28Z",
+          "checksum": "ad48c063d882f05b9d799abfe94b1d52cfa1cabdc830897805b125b40f11e40f",
+          "time": "2026-10-07T05:09:50Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-linux-amd64"
           ]
@@ -22,8 +22,8 @@
           "arch": "amd64",
           "filename": "CharaStudio-1.3.5-linux-amd64.AppImage",
           "size": 33469632,
-          "checksum": "d0405d15ff9cbfc4710624c5b3200ba161bfeaeab3b02bf859970167f91e843e",
-          "time": "2026-10-07T04:55:28Z",
+          "checksum": "56235ccd9f47d197f7b573833522e93c7cdcaf4cefcc7ea237eee6b8af7a9597",
+          "time": "2026-10-07T05:09:50Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-linux-amd64.AppImage"
           ]
@@ -34,8 +34,8 @@
           "arch": "amd64",
           "filename": "CharaStudio-1.3.5-macos-amd64.app",
           "size": 49859072,
-          "checksum": "57705ec41c552907a1533ac619437079268d0ebbb5f8590182ff7c05b4448912",
-          "time": "2026-10-07T04:53:39Z",
+          "checksum": "fbbc7ceae1320601d111633d292053ce4954c02d5a4f63f7e6bb407bacbd3b93",
+          "time": "2026-10-07T05:09:15Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-macos-amd64.app"
           ]
@@ -46,8 +46,8 @@
           "arch": "amd64",
           "filename": "CharaStudio-1.3.5-macos-amd64.dmg",
           "size": 50122085,
-          "checksum": "78d9cbb7fdeab2fc07ed129a1dc43f792e0886f68576e43ee17472eb1a057986",
-          "time": "2026-10-07T04:53:39Z",
+          "checksum": "2212c48e00a6bf9b5477347113906bc11055698952313e08f4c38ddd9e3fe601",
+          "time": "2026-10-07T05:09:15Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-macos-amd64.dmg"
           ]
@@ -58,8 +58,8 @@
           "arch": "arm64",
           "filename": "CharaStudio-1.3.5-macos-arm64.app",
           "size": 48629248,
-          "checksum": "520baa83bdc3beee4d6d87dfa5b656f6c23f80c76dcb8343058789270c11deb5",
-          "time": "2026-10-07T04:53:41Z",
+          "checksum": "d124da268811c4fe4ace060f8f2d817739df7b8e0217a0a37a476d25b828019f",
+          "time": "2026-10-07T05:09:14Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-macos-arm64.app"
           ]
@@ -70,8 +70,8 @@
           "arch": "arm64",
           "filename": "CharaStudio-1.3.5-macos-arm64.dmg",
           "size": 48893285,
-          "checksum": "e32a1c6d52f7e51c07f44aa5ce6e258473ac8d73289ffb4796bf3b0e001737f5",
-          "time": "2026-10-07T04:53:41Z",
+          "checksum": "21941ce02bde14edddd76d6e22b484bd9ef685989fee5a979f7421cf220c2560",
+          "time": "2026-10-07T05:09:14Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-macos-arm64.dmg"
           ]
@@ -81,9 +81,9 @@
           "platform": "windows",
           "arch": "amd64",
           "filename": "CharaStudio-1.3.5-windows-amd64-setup.exe",
-          "size": 33341176,
-          "checksum": "022dc9f8ecb42b912910727149ab7673a7fae96760a6fb8b594e0de53dbb594f",
-          "time": "2026-10-07T04:55:52Z",
+          "size": 33341177,
+          "checksum": "268493199147d8d6a9057becb7b64f3e393a1eb0f4b3c824da4fac98fb5b8bbd",
+          "time": "2026-10-07T05:10:38Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-windows-amd64-setup.exe"
           ]
@@ -94,8 +94,8 @@
           "arch": "amd64",
           "filename": "CharaStudio-1.3.5-windows-amd64.exe",
           "size": 50532864,
-          "checksum": "3f94426b324bb02abc65e83b80015c53e6b8050753a8f72b0c3650f9f96e5bd7",
-          "time": "2026-10-07T04:55:52Z",
+          "checksum": "18b4fcbd6c765ecf0874b41abf62f928985d788725ba07d5f77432cccbdc3d90",
+          "time": "2026-10-07T05:10:38Z",
           "download_urls": [
             "https://github.com/charaorigin/charastudio-public/releases/download/v1.3.5/CharaStudio-1.3.5-windows-amd64.exe"
           ]
@@ -110,7 +110,7 @@
     }
   },
   "latest": "1.3.5",
-  "update_time": "2026-10-07T04:58:23Z",
+  "update_time": "2026-10-07T05:11:39Z",
   "update_check_urls": [
     "https://raw.githubusercontent.com/charaorigin/charastudio-public/main/versions.json"
   ]
