@@ -1,4 +1,10 @@
 # CHANGELOG
+## v1.3.5 - 2026-10-07
++ [Added] Book analysis feature module
++ [Added] Workbench skill module
++ [Changed] Optimized story workbench features
++ [Changed] Fixed several known bugs
+
 ## v1.3.0 - 2026-09-31
 + [Added] Comic workbench and canvas features
 + [Changed] Optimized story workbench features
