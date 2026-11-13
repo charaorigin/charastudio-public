@@ -1,4 +1,11 @@
 # CHANGELOG
+## v1.4.0 - 2026-11-15
++ [Added] Desktop pet feature migrated to a standalone software charabuddy.com
++ [Added] Multimodal support for language models
++ [Added] Media task MCP interface feature
++ [Changed] Optimized Buddy module, added screen visual recognition
++ [Changed] Fixed several known bugs
+
 ## v1.3.8 - 2026-10-30
 + [Added] Video workbench feature module
 + [Added] Character story module
