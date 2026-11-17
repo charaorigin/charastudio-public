@@ -1,4 +1,8 @@
 # CHANGELOG
+## v1.4.1 - 2026-11-18
++ [Changed] Fixed macOS build issues
++ [Changed] Fixed several known bugs
+
 ## v1.4.0 - 2026-11-15
 + [Added] Desktop pet feature migrated to a standalone software charabuddy.com
 + [Added] Multimodal support for language models
